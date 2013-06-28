@@ -1,0 +1,4 @@
+WIC
+===
+
+Windows Imaging Component
